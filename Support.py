@@ -3,7 +3,7 @@ from telebot import types
 import sqlite3
 from apscheduler.schedulers.background import BackgroundScheduler
 
-API_TOKEN = '6469928294:AAFAky7PxKifAmr0j5kKvWfNtljzdnNPAKI'
+API_TOKEN = ''
 
 bot = telebot.TeleBot(API_TOKEN)
 
