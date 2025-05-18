@@ -11,7 +11,7 @@ from telegram.ext import CallbackQueryHandler
 import base64
 from io import BytesIO
 
-API_TOKEN = '6827159024:AAFAN5mHflNXozDm8SIW5ZEwWecrSkK1XsA'
+API_TOKEN = ''
 
 bot = telebot.TeleBot(API_TOKEN)
 
