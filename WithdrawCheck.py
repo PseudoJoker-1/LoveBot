@@ -10,7 +10,7 @@ from telegram.ext import Updater
 from telegram.ext import CallbackQueryHandler
 
 
-API_TOKEN = '6908971319:AAF2LszeW2EeDft3FgJLEOgoCW2mwisCnw0'
+API_TOKEN = ''
 
 bot = telebot.TeleBot(API_TOKEN)
 
