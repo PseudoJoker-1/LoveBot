@@ -12,8 +12,8 @@ import time
 conn = sqlite3.connect('db.db', check_same_thread=False)
 cursor = conn.cursor()
 
-API_TOKEN = '6405524079:AAGu7AeTYChxVGm_zsBlzXbUZ8XMTTMksO8'
-PAYMENTS_TOKEN = '5420394252:TEST:543267'
+API_TOKEN = ''
+PAYMENTS_TOKEN = ''
 
 bot = telebot.TeleBot(API_TOKEN)
 
