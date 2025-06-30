@@ -4,7 +4,7 @@
 
 ## 🔧 Технологии:
 - Python
-- [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI)
+- TeleBot
 - APScheduler
 - SQLite (через стандартную библиотеку)
 
